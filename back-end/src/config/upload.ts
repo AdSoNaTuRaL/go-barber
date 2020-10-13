@@ -12,6 +12,7 @@ interface IUploadConfig {
         storage: StorageEngine;
     };
     config: {
+        // eslint-disable-next-line @typescript-eslint/ban-types
         disk: {};
         s3: {
             bucket: string;
