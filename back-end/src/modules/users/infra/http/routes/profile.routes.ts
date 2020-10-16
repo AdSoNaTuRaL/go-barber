@@ -20,7 +20,11 @@ profileRouter.put(
             old_password: Joi.string(),
             password: Joi.string(),
             password_confirmation: Joi.string()
-                .required()
+                .when('old_password', {
+                    is: val => !!val.lenght,
+                    then: Joi.string().required(),
+                    otherwise: Joi.string(),
+                })
                 .valid(Joi.ref('password')),
         },
     }),
