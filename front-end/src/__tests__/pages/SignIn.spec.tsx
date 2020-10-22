@@ -25,7 +25,7 @@ jest.mock('../../hooks/auth', () => {
 
 jest.mock('../../hooks/toast', () => {
   return {
-    useAuth: () => ({
+    useToast: () => ({
       addToast: mockedAddToast,
     }),
   };
