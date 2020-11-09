@@ -1,8 +1,7 @@
 <p align="center">
    <img src="https://user-images.githubusercontent.com/26275918/97177124-48de6600-1796-11eb-8b13-b15951602191.png" alt="Happy" width="280"/>
+   :rocket: Project made for barber shops that want to control customer scheduling @Rocketseat
 </p>
-
-> :rocket: Project made for barber shops that want to control customer scheduling @Rocketseat
 
 <div align="center">
   <sub>GoStack bootcamp #13 project. Built with ❤︎ by
