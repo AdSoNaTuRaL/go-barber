@@ -9,7 +9,7 @@
   </sub>
 </div>
 
-# :pushpin: Table of Contents
+# 🧾 Table of Contents
 
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
