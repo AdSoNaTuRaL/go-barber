@@ -87,4 +87,4 @@ $ yarn android
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [GoBarber](https://github.com/AdSoNaTuRaL/go-barber/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [GoBarber](https://github.com/AdSoNaTuRaL/go-barber/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
