@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <sub>GoStack bootcamp #13 project. Built with ❤︎ by
+  <sub>GoStack #13 project. Built with ❤︎ by
     <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
   </sub>
 </div>
