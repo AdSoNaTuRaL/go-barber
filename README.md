@@ -3,12 +3,6 @@
    <h4>Project made for barber shops that want to control customer scheduling @Rocketseat </h4>
 </div>
 
-<div align="center">
-  <sub>GoStack #13 project. Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
-</div>
-
 # 🧾 Table of Contents
 
 * [Features](#rocket-features)
