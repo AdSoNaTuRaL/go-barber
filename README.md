@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/26275918/97177124-48de6600-1796-11eb-8b13-b15951602191.png" alt="Happy" width="280"/>
-   <h4>Project made for barber shops that want to control customer scheduling - by @Rocketseat </h4>
+   <h4>Project made for barber shops that want to control customer scheduling</h4>
 </div>
 
 # 🧾 Table of Contents
