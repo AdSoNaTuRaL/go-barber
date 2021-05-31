@@ -1,15 +1,9 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/26275918/97177124-48de6600-1796-11eb-8b13-b15951602191.png" alt="Happy" width="280"/>
-   <h4>Project made for barber shops that want to control customer scheduling @Rocketseat </h4>
+   <h4>Project made for barber shops that want to control customer scheduling</h4>
 </div>
 
-<div align="center">
-  <sub>GoStack bootcamp #13 project. Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
-</div>
-
-# :pushpin: Table of Contents
+# 🧾 Table of Contents
 
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
@@ -87,4 +81,4 @@ $ yarn android
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [GoBarber](https://github.com/AdSoNaTuRaL/go-barber/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [GoBarber](https://github.com/AdSoNaTuRaL/go-barber/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
